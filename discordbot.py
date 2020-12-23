@@ -4,7 +4,7 @@ from discord.ext import commands
 import asyncio
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzkwMzAxNDEwNDc3NzM1OTQ3.X9-niw.QRkBDq509H2UNzrMr2CFifvzkTE'
+TOKEN = 'NzkwMzAxNDEwNDc3NzM1OTQ3.X9-niw.fcGeby6_iZH9SQUJEc1PZToLEzo'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
